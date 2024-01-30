@@ -1,4 +1,6 @@
 # GoodsForecastHack 🛒📈
+:small_orange_diamond: [Ссылка на мероприятие:](https://www.zavodit.ru/ru/calendar/event/38)
+:mortar_board: [Сертификат победителя](https://drive.google.com/file/d/1UGWZHJRLSimIJ2id8ImZrGxHbMe9DRll/view?usp=drive_link)
 ## Описание задачи
 GoodsForecast.OSA – Определение наличия товаров на полке в интервалах без продаж.
 
@@ -11,3 +13,6 @@ GoodsForecast.OSA – Определение наличия товаров на 
 <b>Решалась задача по второму направлению.</b>
 ## Финальная метрика: 
 <b>roc_auc_score: </b>
+## Контакты
+🔹 [e-mail:](gri9orek@yandex.ru) `gri9orek@yandex.ru`
+🔹 [Telegram:](https://t.me/egotoire) `https://t.me/egotoire`
